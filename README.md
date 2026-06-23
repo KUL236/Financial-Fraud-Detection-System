@@ -91,7 +91,7 @@ This will:
 ### 3. Run the Dashboard
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Open `http://localhost:8501` in your browser.
